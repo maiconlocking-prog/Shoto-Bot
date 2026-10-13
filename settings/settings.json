@@ -1,0 +1,15 @@
+{
+  "bot": {
+    "name": "Shoto-Bot",
+    "prefix": "-"
+  },
+  "owner": {
+    "name": "Mz_Darkk ",
+    "number": "553171917951"
+  },
+  "api": {
+    "provider": "waguri",
+    "baseUrl": "https://hana-apis.xyz",
+    "key": "FIELZIN"
+  }
+}

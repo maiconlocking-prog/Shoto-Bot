@@ -1,0 +1,13 @@
+node_modules/
+logs/
+db/
+*.log
+.auth/
+session/
+auth_info*/
+*.session
+.env
+.DS_Store
+temp/
+tmp/
+*.bak
